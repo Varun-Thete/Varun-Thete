@@ -78,9 +78,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Varun-Thete&icon=0&color=1" alt="visitor count" />
-  </a>
-</div>
